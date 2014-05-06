@@ -55,6 +55,9 @@ public class ForTest {
 	int poAND = (8&5);
 	System.out.println("AND "+poAND);   // 1000  &  0101 -> 0000
 	
+	int poOR = (3|4);
+	System.out.println("OR "+poOR);   //  0011  |  0100  ->  0111
+	
 	
 	
 	
