@@ -58,6 +58,9 @@ public class ForTest {
 	int poOR = (3|4);
 	System.out.println("OR "+poOR);   //  0011  |  0100  ->  0111
 	
+	int poXOR = (6^3);
+	System.out.println("XOR "+poXOR);   //  0111  |  0110  ->  0001
+	
 	
 	
 	
