@@ -61,6 +61,9 @@ public class ForTest {
 	int poXOR = (6^3);
 	System.out.println("XOR "+poXOR);   //  0111  |  0110  ->  0001
 	
+	int poSDVIG_VLEVO = (7<<1);
+	System.out.println("XOR "+poSDVIG_VLEVO);   //  0111  <<  1  ->  1110
+	
 	
 	
 	
