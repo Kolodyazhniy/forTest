@@ -52,6 +52,9 @@ public class ForTest {
 	int poNOT = (0b00101010);
 	System.out.println("NOT "+(~poNOT));   // 00101010 -> 11010101
 	
+	int poAND = (8&5);
+	System.out.println("AND "+poAND);   // 1000  &  0101 -> 0000
+	
 	
 	
 	
