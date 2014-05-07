@@ -14,8 +14,7 @@ if (n0<0) throw new IllegalArgumentException("x must>0");
 	}
 //	
 	/**
-	 * */
-	/**
+	
 	 
 	 * */	/**
 	 * */
