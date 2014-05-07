@@ -12,7 +12,7 @@ if (n0<0) throw new IllegalArgumentException("x must>0");
 		n1 = n2;
 		n2 = n3;
 	}
-	
+//	
 
 }
 
